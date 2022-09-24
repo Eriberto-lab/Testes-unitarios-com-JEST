@@ -34,6 +34,6 @@ let media = sum / array.length;
 return Math.round(media);
 };
 
-// console.log(average([])); // 4
+// console.log(average([])); 
 
 module.exports = average;
