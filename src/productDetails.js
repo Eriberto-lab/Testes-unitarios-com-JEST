@@ -42,4 +42,7 @@ const productDetails = (firstProduct, secondProduct) => [
   },
 ];
 
+// let objt = Object.keys(productDetails());
+// console.log(typeof objt);
+
 module.exports = productDetails;
